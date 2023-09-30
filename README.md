@@ -1,5 +1,5 @@
 <link rel ="stylesheet" href ="style.css">
-<h1 style="font-family:Papyrus"  align="center">Hi 👋, I'm ROHIT AGARWAL</h1>
+<h1 style="font-family:Papyrus" ;  align="center" ;>Hi 👋, I'm ROHIT AGARWAL</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src= "https://github.com/rohitagarwal27/rohitagarwal27/blob/main/photof.gif">
 
