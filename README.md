@@ -28,8 +28,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitagarwal27&show_icons=true&locale=en&layout=compact" alt="rohitagarwal27" /></p>
 ## Visitors 👀
-![Visitor Count](https://profile-counter.glitch.me/rohitagarwal27/count.svg)    
-
+## Visitors 👀
+![Visitor Count](https://profile-counter.glitch.me/rohitagarwal27/count.svg)
 ## Statistics 📊
 
 ![Github Stats](https://github-readme-stats.zohan.tech/api?username=rohitagarwal27&show_icons=true&theme=leafy_border=true&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=rohitagarwal27&theme=leafy_border=true&border_radius=10) |
