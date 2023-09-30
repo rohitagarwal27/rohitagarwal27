@@ -30,8 +30,8 @@
  
 ## Visitors 👀
 ![Visitor Count](https://profile-counter.glitch.me/rohitagarwal27/count.svg)
-## Statistics 📊
 
+## Statistics 
 ![Github Stats](https://github-readme-stats.zohan.tech/api?username=rohitagarwal27&show_icons=true&theme=leafy_border=true&border_radius=10) | ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=rohitagarwal27&theme=leafy_border=true&border_radius=10) |
 -- | -- 
 
