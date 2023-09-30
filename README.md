@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ROHIT AGARWAL</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src= "https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
+<img align="right" alt="Coding" width="400" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.photofunky.net%2Fi%2Fa3a7bd&psig=AOvVaw3tDJsnhXgwpA6BoxgaMn9k&ust=1696185138668000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjpppv80oEDFQAAAAAdAAAAABBO">
 
 
 
