@@ -1,5 +1,4 @@
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=pe&weight=500&pause=1000&color=FFD203&center=true&vCenter=true&width=500&height=52&lines=+ 
-       ++++++++++++++++++++Learn+Every+Day+%3D+%3D+Me+%F0%9F%A4%9D+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=pe&weight=500&pause=1000&color=FFD203&center=true&vCenter=true&multiline=true&width=500&height=52&lines=Learn+Every+Day+%3D+%3D+Me+%F0%9F%A4%9D+%3D%3D+++New+Flavours+In+Life)](https://git.io/typing-svg)
 
 <h1 align="center"><b>Hi 👋, I'm ROHIT AGARWAL</b></h1>
 <h3 align="center">A passionate frontend developer</h3>
