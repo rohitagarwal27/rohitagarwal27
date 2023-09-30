@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=730&height=79&lines=%E2%9D%A4%EF%B8%8F+WAY+TO+BECOME+MERN+STACK+DEVELOPER++%2C+CHECK+OUT+MY+REPO'S+%E2%9D%A4%EF%B8%8F+)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=783&height=79&lines=%E2%9D%A4%EF%B8%8F+WAY+TO+BECOME+MERN+STACK+DEVELOPER++%2C+CHECK+OUT+MY+REPO'S+%E2%9D%A4%EF%B8%8F+)](https://git.io/typing-svg)
 <h1 align="center"><b>Hi 👋, I'm ROHIT AGARWAL</b></h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src= "https://github.com/rohitagarwal27/rohitagarwal27/blob/main/photof.gif">
