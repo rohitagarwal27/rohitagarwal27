@@ -1,6 +1,5 @@
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Learn+every+ Day!!&font= arial&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=pe&pause=1000&color=FFD203&center=true&width=500&height=52&lines=Learn+Every+Day+%3D+%3D+Me+%F0%9F%A4%9D+)](https://git.io/typing-svg)
+
 <h1 align="center"><b>Hi 👋, I'm ROHIT AGARWAL</b></h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src= "https://github.com/rohitagarwal27/rohitagarwal27/blob/main/photof.gif">
