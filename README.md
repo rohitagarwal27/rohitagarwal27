@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I DONT KNOW WHERE IS MY DESTINATION**
 
 
-<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><h3 align="left" >Connect with me:</h3><img src="link.png" alt="linkedin"  width="40" height="40" /></a>
+<a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><h3 align="left" >Connect with me:</h3><img src="link.png" alt="linkedin"  width="40" height="40" />Linkedin</a>
 <p align="left">
 </p>
 
