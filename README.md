@@ -20,7 +20,10 @@
 - 📫 How to reach me **rohitagarwal.bdk@gmail.com**
 
 - ⚡ Fun fact **I DONT KNOW WHERE IS MY DESTINATION**
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rohit-agarwal27" target="blank"><img align="center" src="link.png" alt="rohit-agarwal27" height="30" width="40" /></a>
+</p>
 
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><h3 align="left" >Connect with me:</h3><img src="link.png" alt="linkedin"  width="40" height="40" />Linkedin</a>
 <p align="left">
