@@ -22,7 +22,7 @@
 - ⚡ Fun fact **I DONT KNOW WHERE IS MY DESTINATION**
 
 
-<a href="www.linkedin.com/in/rohit-agarwal27"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="linkedin"><h3 align="left">Connect with me:</h3></a>
+<a href="www.linkedin.com/in/rohit-agarwal27"><h3 align="left">Connect with me:</h3><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1024px-LinkedIn_Logo.svg.png" alt="linkedin" height=100px ; width=100px></a>
 <p align="left">
 </p>
 
