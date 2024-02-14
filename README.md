@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **CSS**
+- 🔭 I’m currently working on **JAVA SCRIPT AND BACKEND**
 
 - 🌱 I’m currently learning **MERN STACK**
 
