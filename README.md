@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a>
 <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="70" height="70"/></a>
-<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://encryptedtbn0.gstatic.com/imagesq=tbn:ANd9GcSTmDICLzFRgadc19YlTvxyfuYBymegZmevkCqicoWcWPU5ofHund6NXJjBy5TDkE8sX04&usqp=CAU" width="70" height="70"/></a>
+<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"><img src="https://www.iconbolt.com/preview/facebook/bootstrap-icons/markdown-fill.svg" width="70" height="70"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="70"/> </a>
 <a href="https://jquery.com/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/jquery-icon-icon-512x507-kvrw1iok.png" width="70" height="70"/></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="70" height="70"/></a>
